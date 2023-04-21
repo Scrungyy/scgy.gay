@@ -1,0 +1,21 @@
+.title {
+    color: white;
+    text-align: center;
+}
+html {
+    background-image: url(./gifs/flames.gif);
+    background-size: 10%;
+}
+.main {
+    border: 3px white solid;
+    background-color: rgba(41, 0, 69, 0.95);
+    font-family: unutterable;
+    max-width: 1000px;
+    overflow: scroll;
+    margin: auto;
+    max-height: 98vh;
+}
+@font-face {
+    font-family: unutterable;
+    src: url(./fonts/Unutterable.ttf);
+}
