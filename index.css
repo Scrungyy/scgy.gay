@@ -1,3 +1,4 @@
+
 .title {
     color: white;
     text-align: center;
@@ -22,9 +23,16 @@ html {
     max-width: 950px;
     margin: auto;
     color: white;
-    word-spacing: 20%;
+}
+.nav>* {
+    padding: 0 20px;
+}
+.nav a {
+    color: white;
+    font-size: 30px;
 }
 @font-face {
     font-family: main;
     src: url(./fonts/VT323-Regular.ttf);
 }
+
