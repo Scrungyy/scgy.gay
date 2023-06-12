@@ -18,7 +18,10 @@ html {
     font-size: x-large;
 }
 .text {
-    max-width: 950px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 25px;
+    margin-left: 25px;
     font-size: x-large;
 }
 .nav {
